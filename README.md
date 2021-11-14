@@ -1,4 +1,4 @@
-# quebecy-city-wall-art
+# trois-rivieres-city-wall-art
 
 This project is a webpage displaying pictures from a specific city.
 
